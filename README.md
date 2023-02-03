@@ -3,6 +3,8 @@
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
 
+![https://github.com/milesba4/pytest-lab-milesba4/actions?query=workflow%3Atests](https://github.com/milesba4/pytest-lab-milesba4/workflows/tests/badge.svg)
+
 ## Instructions
 
 **DO NOT FORK THIS REPO!!!**
